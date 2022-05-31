@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/flowbite-react/static/css/main.7eaf3fc3.css",
-    "main.js": "/flowbite-react/static/js/main.3b9d8e75.js",
-    "static/css/562.0808da69.css": "/flowbite-react/static/css/562.0808da69.css",
-    "static/js/562.8db9b95e.js": "/flowbite-react/static/js/562.8db9b95e.js",
-    "index.html": "/flowbite-react/index.html",
-    "main.7eaf3fc3.css.map": "/flowbite-react/static/css/main.7eaf3fc3.css.map",
-    "main.3b9d8e75.js.map": "/flowbite-react/static/js/main.3b9d8e75.js.map",
-    "562.0808da69.css.map": "/flowbite-react/static/css/562.0808da69.css.map",
-    "562.8db9b95e.js.map": "/flowbite-react/static/js/562.8db9b95e.js.map"
+    "main.css": "/static/css/main.d0a9039c.css",
+    "main.js": "/static/js/main.1ad1538c.js",
+    "static/css/900.354d9d26.css": "/static/css/900.354d9d26.css",
+    "static/js/900.198fb0be.js": "/static/js/900.198fb0be.js",
+    "index.html": "/index.html",
+    "main.d0a9039c.css.map": "/static/css/main.d0a9039c.css.map",
+    "main.1ad1538c.js.map": "/static/js/main.1ad1538c.js.map",
+    "900.354d9d26.css.map": "/static/css/900.354d9d26.css.map",
+    "900.198fb0be.js.map": "/static/js/900.198fb0be.js.map"
   },
   "entrypoints": [
-    "static/css/562.0808da69.css",
-    "static/js/562.8db9b95e.js",
-    "static/css/main.7eaf3fc3.css",
-    "static/js/main.3b9d8e75.js"
+    "static/css/900.354d9d26.css",
+    "static/js/900.198fb0be.js",
+    "static/css/main.d0a9039c.css",
+    "static/js/main.1ad1538c.js"
   ]
 }
