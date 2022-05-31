@@ -98,6 +98,13 @@ export interface FlowbiteTheme {
       };
     };
   };
+  progress: {
+    base: string;
+    label: string;
+    bar: string;
+    color: ProgressColors;
+    size: ProgressSizes;
+  };
   spinner: {
     base: string;
     color: SpinnerColors;
@@ -128,6 +135,11 @@ export interface FlowbiteColors {
   purple: string;
   success: string;
   warning: string;
+  indigo: string;
+  blue: string;
+  red: string;
+  green: string;
+  yellow: string;
 }
 
 export interface FlowbitePositions {
